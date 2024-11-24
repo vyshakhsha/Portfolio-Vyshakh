@@ -381,6 +381,7 @@ h2 {
 .profile-img {
   width: 40%;
   height: auto;
+  padding-bottom: 10px;
 }
 .btn-credential {
   border-radius: 16px;

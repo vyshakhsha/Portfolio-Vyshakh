@@ -114,5 +114,10 @@ const ProfileData=[
     name:"Linkedin",
     url:"https://www.linkedin.com/in/vyshakh-mohanan-p-75a759191/",
     imageUrl: require("../Assets/linkedin.png")
+  },
+  {
+    name:"HackerRank",
+    url:"https://www.hackerrank.com/profile/vyshakh18vk",
+    imageUrl: require("../Assets/hackerrank.png")
   }]
 export { skillData, ExpData, EduData, CertificateData,ProfileData };
