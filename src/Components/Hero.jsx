@@ -11,9 +11,9 @@ function Hero() {
         <h2 className="intro">
           I'M <span className="intro-name">Vyshakh</span>
         </h2>
-        <p className="intro-p">Fullstack web developer with 3 years of experience </p>
+        <p className="intro-p">Passionate Full Stack Developer with 4 years of experience, building robust, scalable, and secure web applications.</p>
         <p className="intro-p">
-        Currently focusing on frontend roles, specializing in ReactJS.
+         I specialize in both frontend (React.js) and backend (ASP.NET Core, SQL Server) development, delivering high-quality enterprise solutions.
         </p>
       </div>
     </div>
